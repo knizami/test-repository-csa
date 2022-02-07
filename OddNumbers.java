@@ -1,6 +1,6 @@
 public class OddNumbers {
     public static void main(String[] args) {
-      int n = 32;
+      int n = 100;
       int currentNumber = -n;
       while (currentNumber <= n)
       {
